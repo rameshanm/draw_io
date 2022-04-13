@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T06:26:26.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="a-cEPQHP0uqH-C_Eg-em" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T08:48:46.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="f1svFDLiLFANoL9fi7Sz" version="17.4.0" type="github">
   <diagram id="V6QHfMiRqVxOChgMFrc-" name="Page-1">
-    <mxGraphModel dx="3308" dy="2176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2233" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,6 +288,15 @@
             <mxPoint x="260" y="1150" as="sourcePoint" />
             <mxPoint x="310" y="1100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CVXwxLRXvlVi5tc0eJbV-8" value="&lt;b&gt;Inbound&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#000000;strokeColor=#517040;strokeWidth=2;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="800" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CVXwxLRXvlVi5tc0eJbV-9" value="&lt;b&gt;Outbound&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#000000;strokeColor=#517040;strokeWidth=2;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="805" y="870" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CVXwxLRXvlVi5tc0eJbV-10" value="&lt;b&gt;NAS&amp;nbsp; Drive&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="499.18" y="900" width="80.82" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
